@@ -45,7 +45,7 @@ unsigned long long prime_sum{};
 unsigned int counter = 0;
 
 
-std::cout << 2 << std::endl;
+//std::cout << 2 << std::endl;
 prime_sum += 2;
     for (size_t i : marked)
     {   
