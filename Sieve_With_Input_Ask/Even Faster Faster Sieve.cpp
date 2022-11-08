@@ -6,8 +6,7 @@ using std::vector;
 
 int main(){
 
-    // this program uses the Sieve of Eratosthenes algorithm
-    // it can be optimized by skipping duplicates
+
     vector<bool> marked{};
 
 
